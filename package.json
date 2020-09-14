@@ -8,7 +8,9 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "eth-url-parser": "^1.0.3",
     "expo": "~38.0.8",
+    "expo-linking": "^1.0.3",
     "expo-status-bar": "^1.0.2",
     "react": "~16.11.0",
     "react-dom": "~16.11.0",
